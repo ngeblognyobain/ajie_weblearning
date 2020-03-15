@@ -3,3 +3,6 @@ AJIE WEBLEARNING
 - Membuat platform pengelolaan video dan materi pembelajaran
 - Membuat platform ujian sekolah
 - Membuat forum diskusi antara siswa dan guru
+- Membuat galeri project siswa
+- Menjual project siswa
+- Kolaborasi dengan semua guru
